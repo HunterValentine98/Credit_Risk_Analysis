@@ -23,3 +23,15 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 - Precision Score:
 - Recall Score:
 - F1 Score:
+
+### Balanced Random Forest Classifier
+- Precision Score:
+- Recall Score:
+- F1 Score:
+
+### Easy Ensemble AdaBoost Classifier
+- Precision Score:
+- Recall Score:
+- F1 Score:
+
+## Summary
